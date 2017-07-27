@@ -1,0 +1,12 @@
+Using diff allowed me to see the differences between different file types more easily.
+this allowed me more easily recognise bugs as I can see where things were changed and identify which changes might have broken the program.
+
+Having easy access to entire file history can make me a more efficient programmer as it allows me to quickly restore old versions when necessary. meaning that changes to my code are not lost, it also saves me from having to do this manually which is time consuming.
+
+Manually saving your files allows you to have meaniningful versions so you can more easily revert when necessary and keep track of updates to your code.
+
+Version control software like git saves the state of all the files in the directory each time you make a commit. This is useful because in scenarios where one change affects multiple files, all of these changes can be saved in one commit instead of having to track them seperately.
+
+Version control software might help me more confident that changes have broken my code as it allows me to work with previous versions and isolate which commit brokee the code, then using git diff I will be able to find the specific lines of code responsible for the error.
+
+I want to try using git for version control on all apps that I develop, this would allow me to easily go back to old versions and fix bugs etc.

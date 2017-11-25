@@ -1,0 +1,5 @@
+branches are useful when you need to split your file
+into different versions e.g. easy mode and hard mode
+of a game. you  can later merge branches should you need to
+e.g. in the final version of the game where u have a menu
+to let you set the difficulty
